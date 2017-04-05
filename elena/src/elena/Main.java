@@ -1,6 +1,6 @@
 package elena;
 import java.util.Scanner;
-
+//fhrhthfghdf
 public class Main {
 	public static void main(String[] args) {
 		Scanner tastiera = new Scanner(System.in);
